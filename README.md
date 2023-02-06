@@ -1,2 +1,17 @@
 # syllabus-reader
-attempts to read syllabus for significant deadlines and converts text into an ics file
+
+Syllabus reader is a React and Express.JS web app that helps you find deadlines in your syllabus to quickly convert them into an ICS file for your digitial calendar of choice.
+
+## Setup
+
+Since this is a web app, it's already hosted here.
+
+If you want to run it locally on your computer, follow these steps:
+
+## Contributing
+
+Please create an issue describing the bug to be fixed, and then I'll be glad to accept your Pull Requests!
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
