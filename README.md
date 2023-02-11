@@ -1,6 +1,8 @@
 # syllabus-reader
 
-Syllabus reader is a React and Django web app that helps you find deadlines in your syllabus to quickly convert them into an ICS file for your digitial calendar of choice.
+Syllabus reader is a web app that helps you find deadlines in your syllabus to quickly convert them into an ICS file for your digitial calendar of choice.
+
+This web app is based on FastAPI, and OpenCV.
 
 ![](images/logo.png)
 
